@@ -1,7 +1,7 @@
 ## DATA ANALYSIS WITH PANDAS  :blush: :blush:
-:panda:
 
-** [title](https://pandas.pydata.org/)**
+
+* [title](https://pandas.pydata.org/)*
 
 * PANDAS is one of the most important item library .When we need to analyse data with python, PANDAS is one of the most widely used library.:heart_eyes:
 * It is one of the most preferred and virally used tools in data analysis and also playing with data that are stored in CSV File (Comma Separated Values File), Text File and JSON file .
@@ -12,7 +12,7 @@
 
 ---------------------------------------------------------------
 
-** PANDAS IS A FAST, POWERFUL, FLEXIBLE AND EASY TO USE OPEN SOURCE DATA ANALYSIS AND MANIPULATION TOOL , WHICH IS BUILD ON THE TOP OF THE PYTHON PROGRAMMING LANGUAGE.IT IS AN EASY TO USE OPEN SOURCE LIBRARY PROVIDING HIGH-PERFORMANCE , EASY TO USE DATA STRUCTURES AND DATA ANALYSIS TOOLS FOR THE PYTHON PROGRAMMING LANGUAGE **
+* PANDAS IS A FAST, POWERFUL, FLEXIBLE AND EASY TO USE OPEN SOURCE DATA ANALYSIS AND MANIPULATION TOOL , WHICH IS BUILD ON THE TOP OF THE PYTHON PROGRAMMING LANGUAGE.IT IS AN EASY TO USE OPEN SOURCE LIBRARY PROVIDING HIGH-PERFORMANCE , EASY TO USE DATA STRUCTURES AND DATA ANALYSIS TOOLS FOR THE PYTHON PROGRAMMING LANGUAGE *
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,5 +32,9 @@ Here are a few things that pandas does well!! :sparkling_heart:💖 :sparkling_h
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-#  
+#  PANDAS is abbreviated as Python Data Analysis Library
+ *It is basically a library consisting up of multi-dimensional areas you can even consider it as multi-dimensional list, so that we can play with different types of processing formats *
+
+ :heart_eyes::heart_eyes: Basically , PANDAS is a high level Library which uses other librarues too , inorder to work perfectly.
+ 
 
